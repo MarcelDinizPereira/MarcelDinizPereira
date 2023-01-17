@@ -40,7 +40,7 @@ Technologies & Skills: `Network configuration`, `Powershell`, `Remote Support`\
   
 [<img align="left" height="94px" width="94px" alt="Rocketseat" src="https://cdn-icons-png.flaticon.com/512/4275/4275122.png"/>]()
 **Laptop Technician** \
-[**Local Brazilian Tech Store(CDI Informática, Jales)**] • Full-time \
+**Local Brazilian Tech Store(CDI Informática, Jales)** • Full-time \
 Technologies & Skills: `Computer assembly(and repair)`, `Network configuration`, `Windows Operating system`\
 <br/>
 <br/>
