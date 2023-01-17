@@ -1,8 +1,5 @@
 
-<h2><img src="https://media.tenor.com/vr6XFSvvTL4AAAAi/scream-halloween.gif" width="36px"> "What is your favorite scary movie?"</h2>
-
-<div class="tenor-gif-embed" data-postid="14273849" data-share-method="host" data-aspect-ratio="2.34375" data-width="100%"><a href="https://tenor.com/view/sword-attack-slash-samurai-long-hair-gif-14273849">Sword Attack Sticker</a>from <a href="https://tenor.com/search/sword-stickers">Sword Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-
+<h2><img src="https://media.tenor.com/F2RBdrRCeJUAAAAj/machiko-rabbit.gif" width="36px">Learn. Train. Improve.</h2>
 <h3>About me</h3>
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
