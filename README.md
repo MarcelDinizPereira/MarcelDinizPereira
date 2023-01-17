@@ -28,11 +28,10 @@
 </p>  
 
 ### Work Experience
-Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
+Here are my most recent work experience:
 
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://www.spacex.com/static/images/share.jpg"/>](https://www.spacex.com/)
-
-**Software Engineer** \
+**Computer Support Analyst** \
 [**SpaceX**](https://www.spacex.com/) • Full-time \
 Linguagens & Tecnologias: `Python`, `Django`, `C++`, `JavaScript`, `GoLang`, `SaltStack`,\
 Projetos em destaque: [Rocket](https://www.spacex.com/), [Marte](https://pt.wikipedia.org/wiki/Marte_(planeta))
