@@ -26,7 +26,8 @@
     <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=LINK-DO-SEU-FACEBOOK"/>
   </a>    
 </p>
-
+<br/><br/>
+  
 <h2>
   <img src="https://media.tenor.com/yO66SSOovKAAAAAj/rabbit.gif" width="36px">
   Work Experience
