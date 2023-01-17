@@ -30,9 +30,9 @@
 ### Work Experience
 Here are my most recent work experience:
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://www.spacex.com/static/images/share.jpg"/>](https://www.spacex.com/)
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://media.licdn.com/dms/image/C4D0BAQF79y_qYPJ0_g/company-logo_200_200/0/1580386329799?e=1681948800&v=beta&t=PpVH_Rs2XOdK_GQFRIARqH3QjyV4iIXs-GfpXV6JRAU"/>](https://stefanini.com/en)
 **Computer Support Analyst** \
-[**SpaceX**](https://www.spacex.com/) • Full-time \
+[**Stefanini**](https://stefanini.com/en) • Full-time \
 Linguagens & Tecnologias: `Python`, `Django`, `C++`, `JavaScript`, `GoLang`, `SaltStack`,\
 Projetos em destaque: [Rocket](https://www.spacex.com/), [Marte](https://pt.wikipedia.org/wiki/Marte_(planeta))
 <br/>
