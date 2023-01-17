@@ -40,9 +40,9 @@ Here are my most recent work experience:
 
 **Laptop Technician** \
 [**Rocketseat**](https://rocketseat.com.br/) • Full-time \
-Languagens, Technologies & Skills: `Computer assembly and repair`, `Network configuration`, `Powershell`, `Windows Operating system`\
+Technologies & Skills: `Computer assembly(and repair)`, `Network configuration`, `Powershell`, `Windows Operating system`\
 <br/>
 
 <br/>
 
-Follow me on [LinkedIn](https://www.linkedin.com/in/put-here-your-username/) for more details in my work experience, education and certificates.
+Follow me on [LinkedIn](https://www.linkedin.com/in/marcel-diniz-82bb13149/) for more details in my work experience, education and certificates.
