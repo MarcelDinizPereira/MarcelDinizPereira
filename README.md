@@ -36,6 +36,7 @@ Here are my most recent work experience:
 <br/>
 
 [<img align="left" height="94px" width="94px" alt="Rocketseat" src="https://yt3.ggpht.com/ytc/AKedOLQkXnYChXAHOeBQLzwhk1_BHYgUXs6ITQOakoeNoQ=s900-c-k-c0x00ffffff-no-rj"/>](https://rocketseat.com.br/)
+
 **Laptop Technician** \
 [**Rocketseat**](https://rocketseat.com.br/) • Full-time \
 Languagens, Technologies & Skills: `Computer assembly and repair`, `Network configuration`, `Powershell`, `Windows Operating system`\
