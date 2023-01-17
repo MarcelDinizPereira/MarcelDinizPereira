@@ -1,18 +1,44 @@
-<h2> <img src="https://i.seadn.io/gae/hrBxrQchz9FI5074r1S74lqoK_1-CBG6F8KUATVtpqt_JwhcfvgtCTY10RNdbHAy-9SNIEC6YWPOQoleKnvUWeOST1J0HffqIrf7HA?auto=format&w=1000" width="50px">About me</h2>
-Hi there! I'm a person passionate about technology and how it can be help evolve the world we live in. Currently a front-end developer, but always learning a bit of back-end too during spare time.
 
-<h3>Some of my GitHub stats</h3>
+<h2><img src="https://media.tenor.com/vr6XFSvvTL4AAAAi/scream-halloween.gif" width="36px"> "What is your favorite scary movie?"</h2>
+
+<div class="tenor-gif-embed" data-postid="14273849" data-share-method="host" data-aspect-ratio="2.34375" data-width="100%"><a href="https://tenor.com/view/sword-attack-slash-samurai-long-hair-gif-14273849">Sword Attack Sticker</a>from <a href="https://tenor.com/search/sword-stickers">Sword Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
+<h3>About me</h3>
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+
+<p align="left"> 
+  <div>
+    Yet another sailor in the vast sea of the internet building anything my heart desires. Most of my projects are gaming-related, front-end, or fullstack. Currently focused on creating small Unity and Renpy games.
+  </div>
+</p>
+
+<p align="left">
+  🦄 Languages I code in: <strong>C Sharp, Python, HTML, CSS, JavaScript.</strong>
+</p>
+
+<p align="left">
+  💼 Currently Learning: <strong>Unity, Renpy.</strong>
+</p>
+
+<p align="left">
+  💌 How to contact me: ⤵️
+</p>
+
+<p align="left">
+  <a href="#" alt="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>
+
+  <a href="#" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
+
+  <a href="#" alt="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
+</p>  
+
 <div style="display: inline_block">
-  <img height="180em" width="380" src="https://github-readme-stats.vercel.app/api?username=MarcelDinizPereira&show_icons=true&theme=white&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="380" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcelDinizPereira&layout=compact&langs_count=7&theme=white"/>
-</div>
-
-<!-- <h3>What I specialize in</h3>
-<div style="display: inline_block"><br>
-  <img align="center" alt="C" height="45" width="45" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
-  <img align="center" alt="Csharp" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Csharp" height="45" width="45" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg">
+  <img align="center" alt="Python" height="45" width="45" src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg">
   <img align="center" alt="HTML" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="MySQL" height="45" width="45" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
-  <img align="center" alt="PHP" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-</div> -->
+</div> <!-- Add a <br> after every 3 items, so it looks smooth -->
