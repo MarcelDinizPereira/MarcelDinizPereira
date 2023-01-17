@@ -33,10 +33,9 @@ Here are my most recent work experience:
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://media.licdn.com/dms/image/C4D0BAQF79y_qYPJ0_g/company-logo_200_200/0/1580386329799?e=1681948800&v=beta&t=PpVH_Rs2XOdK_GQFRIARqH3QjyV4iIXs-GfpXV6JRAU"/>](https://stefanini.com/en)
 **Computer Support Analyst** \
 [**Stefanini**](https://stefanini.com/en) • Full-time \
-Technologies & Skills: `Network configuration`, `Powershell`, `Remote Support`\
+Technologies & Skills: `Network configuration`, `Powershell`, `Remote Support`, `Python`, `CMD`\
 <br/>
 <br/>
-
   
 [<img align="left" height="94px" width="94px" alt="Rocketseat" src="https://cdn-icons-png.flaticon.com/512/4275/4275122.png"/>]()
 **Laptop Technician** \
