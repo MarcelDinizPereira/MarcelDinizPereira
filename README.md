@@ -1,21 +1,13 @@
 
 <h2><img src="https://media.tenor.com/F2RBdrRCeJUAAAAj/machiko-rabbit.gif" width="36px">Learn. Train. Improve.</h2>
 <h3>About me</h3>
-
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
-
 <p align="left"> 
-  <div>
-    Yet another sailor in the vast sea of the internet building anything my heart desires. Most of my projects are gaming-related, front-end, or fullstack. Currently focused on creating small Unity and Renpy games.
-  </div>
+  Greetings. I'm just someone deep in love with learning and technology, and I believe we can use those things to make the world something better. Currently I'm a software developer, focused on front-end and sometimes fullstack.
 </p>
 
 <p align="left">
-  🦄 Languages I code in: <strong>C Sharp, Python, HTML, CSS, JavaScript.</strong>
-</p>
-
-<p align="left">
-  💼 Currently Learning: <strong>Unity, Renpy.</strong>
+  💼 Languages I code in: <strong>C Sharp, Python, HTML, CSS, JavaScript.</strong>
 </p>
 
 <p align="left">
@@ -39,3 +31,33 @@
   <img align="center" alt="HTML" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div> <!-- Add a <br> after every 3 items, so it looks smooth -->
+
+### Experiência de trabalho
+Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
+
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://www.spacex.com/static/images/share.jpg"/>](https://www.spacex.com/)
+
+**Software Engineer** \
+[**SpaceX**](https://www.spacex.com/) • Full-time \
+Linguagens & Tecnologias: `Python`, `Django`, `C++`, `JavaScript`, `GoLang`, `SaltStack`,\
+Projetos em destaque: [Rocket](https://www.spacex.com/), [Marte](https://pt.wikipedia.org/wiki/Marte_(planeta))
+<br/>
+
+[<img align="left" height="94px" width="94px" alt="Rocketseat" src="https://yt3.ggpht.com/ytc/AKedOLQkXnYChXAHOeBQLzwhk1_BHYgUXs6ITQOakoeNoQ=s900-c-k-c0x00ffffff-no-rj"/>](https://rocketseat.com.br/)
+
+**Frot-end Developer (Jr)** \
+[**Rocketseat**](https://rocketseat.com.br/) • Contract \
+Linguagens & Tecnologias: `JavaScript`, `Node`, `React`\
+Projetos em destaque: [Ignite](), [Bootcamp]()
+<br/>
+
+[<img align="left" height="94px" width="94px" alt="Nubank" src="https://nubank.com.br/images/nu-icon.png?v=2"/>](https://nubank.com.br/)
+
+**Software Engineer** \
+[**Nubank**](https://nubank.com.br/) • Contract \
+Linguagens & Tecnologias: `React Native`, `Node`, `Swift`, `Kotlin`, `OpenShift` \
+Projetos em destaque: [App](https://nubank.com.br/)
+<br/>
+<br/>
+
+Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/put-here-your-username/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
