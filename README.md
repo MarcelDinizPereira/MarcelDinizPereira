@@ -1,6 +1,5 @@
 
 <h2><img src="https://media.tenor.com/F2RBdrRCeJUAAAAj/machiko-rabbit.gif" width="36px">Learn. Train. Improve.</h2>
-<h3>About me</h3>
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 <p align="left"> 
   Greetings. I'm someone deep in love with learning and technology, and I believe we can use those things to make the world something better. Currently I'm a software developer, focused on front-end and sometimes fullstack.
